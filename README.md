@@ -2,7 +2,7 @@
 
 We create a large scale benchmark, open domain Dialogue Entity via Question Answering (DEQA), which consists of one English dataset and one Chinese dataset, of 8,415 and 6,203 dialogues, respectively.
 
-**NOTE** We are applying to Douban for permission to redistribute the data. We will publish the data as soon as possible after obtaining the permission of Douban.
+**NOTE**: We are applying to Douban for permission to redistribute the data. We will publish the data as soon as possible after obtaining the permission of Douban.
 
 ## Dataset
 ### Sample
