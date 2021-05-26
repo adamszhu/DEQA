@@ -5,6 +5,7 @@ we create a large scale benchmark, open domain Dialogue Entity via Question Answ
 **NOTE** We are applying to Douban for permission to redistribute the data. We will publish the data as soon as possible after obtaining the permission of Douban.
 
 ## Dataset
+###Sample
 Sample of Chinese dialogue in the annotated dataset.
 
 | Chinese Dialogue           | English Translation                                        |
@@ -17,3 +18,18 @@ Sample of Chinese dialogue in the annotated dataset.
 | 我来替你啊                 | I can do it for you.                                       |
 
 
+### Statistics
+|                       | English | Chinese |
+| --------------------- | ------- | ------- |
+| Total \# of dialogues | 8,415   | 6,203   |
+| Total \# of questions | 11,904  | 10,387  |
+| Training set          | 6,603   | 4,962   |
+| Dev set               | 832     | 621     |
+| Test set              | 830     | 620     |
+
+##Citation
+[What did you refer to? Evaluating Co-references in Dialogue]
+
+## Contact
+
+* [Wei-nan Zhang](http://ir.hit.edu.cn/~wnzhang/).
